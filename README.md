@@ -1,0 +1,2 @@
+This project is a spike to aggregate messages from SQS into batch of messages using spring batch (chuck processing) batch.  
+Here is the stackover flow [link](https://stackoverflow.com/questions/67793048/message-aggregation-using-sqs-and-springboot) where i posted this query. 
